@@ -26,8 +26,12 @@
     "@babel/preset-stage-2": "^7.0.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-loader": "^8.0.5",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
+    "mongoose": "^5.4.11",
+    "morgan": "^1.9.1",
     "pm2": "^3.2.9",
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
